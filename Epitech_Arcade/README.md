@@ -1,5 +1,19 @@
 # arcade
 
+## A project developed during the second year at Epitech.
+
+Arcade is program that loads self-made graphic- and game logic libraries and links them together to play games.
+
+This allows both games and graphics to be swapped on the fly while the program is running.
+
+https://user-images.githubusercontent.com/62158116/178120831-d427ccf5-5599-4353-98bf-0e7832b0a1a4.mp4
+
+As an additional challenge, the program had to support the libraries of all other current student groups as well.
+
+https://user-images.githubusercontent.com/62158116/178120920-7c36e0f9-e09e-4892-a9a2-97779f50c583.mp4
+
+To Make this possible we agreed on a documentation, which can be found in the doc folder.
+
 ## setup:
 
 `cmake .`
